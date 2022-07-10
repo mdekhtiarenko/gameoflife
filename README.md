@@ -1,4 +1,4 @@
-#Game of Life
+# Game of Life
 #### Requirements: JDK17
 
 #### Results demonstration(first 5 generation when starting with glider pattern)
